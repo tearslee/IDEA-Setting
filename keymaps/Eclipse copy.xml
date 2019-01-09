@@ -1,0 +1,23 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f3" />
+    <mouse-shortcut keystroke="control button3" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="Maven.ExecuteGoal">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+</keymap>
