@@ -4,6 +4,7 @@
       <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="go" type="PLAIN_TEXT" />
+      <mapping ext="24" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
