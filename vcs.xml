@@ -54,8 +54,12 @@
           <option name="url" value="https://github.com/leftjs/StudentGradesManageSystem.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/KikiLetGo/VirusBroadcast.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Administrator\tearslee\github" />
+    <option name="cloneParentDir" value="R:\devlop" />
   </component>
 </application>
